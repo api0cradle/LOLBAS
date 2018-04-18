@@ -15,6 +15,7 @@ Code sample:
 Resources:
 * https://enigma0x3.net/2017/08/03/wsh-injection-a-case-study/
 * https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology
+* https://github.com/enigma0x3/windows-operating-system-archaeology
 
 Full path:
 ```

@@ -8,6 +8,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Atbroker.exe](OSBinaries/Atbroker.md)    
 [Cmstp.exe](OSBinaries/Cmstp.md)     
 [Control.exe](OSBinaries/Control.md)     
+[Dfsvc.exe](OSBinaries/Dfsvc.md)     
 [Forfiles.exe](OSBinaries/Forfiles.md)    
 [Ieexec.exe](OSBinaries/Ieexec.md)     
 [Ie4unit.exe](OSBinaries/Ie4unit.md)     

@@ -5,6 +5,8 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 # OS SCRIPTS
 
-[Cl_invocation.ps1](OSScripts/Cl_invocation.md)    
-[Pubprn.vbs](OSScripts/Pubprn.md)    
-[Slmgr.vbs](OSScripts/Slmgr.md)    
+[Cl_invocation.ps1](OSScripts/Cl_invocation.md)         
+[Manage-bde.vbs](OSScripts/Manage-bde.md)     
+[Slmgr.vbs](OSScripts/Slmgr.md)      
+[Pubprn.vbs](OSScripts/Pubprn.md)     
+[Winrm.vbs](OSScripts/Winrm.md)      
