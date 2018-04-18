@@ -11,7 +11,8 @@ Acknowledgements:
 * Casey Smith - @subtee
 
 Code sample:
-* [NameOfLink](Payload/NameOfPayload)
+* [Slmgr.reg](Payload/Slmgr.reg)    
+* [Slmgr_calc.sct](Payload/Slmgr_calc.sct)    
 
 Resources:
 * https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology
@@ -24,7 +25,7 @@ c:\windows\sysWOW64\slmgr.vbs
 ```
 
 Notes:
-Requires registry keys to work.
+Requires that registry keys are imported and SCT present to work. SCT path can be adjusted inside the registry keys.
 
 
  

@@ -5,4 +5,6 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 # OS SCRIPTS
 
-[Cl_invocation](OSScripts/Cl_invocation.md) 
+[Cl_invocation.ps1](OSScripts/Cl_invocation.md)    
+[Pubprn.vbs](OSScripts/Pubprn.md)    
+[Slmgr.vbs](OSScripts/Slmgr.md)    
