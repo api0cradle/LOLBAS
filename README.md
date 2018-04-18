@@ -4,6 +4,6 @@ The goal of these lists are to document every binary and script that can be used
 
 There are two different lists.
 
-[LOLBins.MD]
-[LOLScripts.MD]
+[LOLBins](LOLBins.md)
+[LOLScripts](LOLScripts.md)
 
