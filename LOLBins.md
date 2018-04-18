@@ -15,6 +15,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Installutil.exe](OSBinaries/Installutil.md)      
 [Mavinject32.exe](OSBinaries/Mavinject32.md)       
 [Msbuild.exe](OSBinaries/Msbuild.md)    
+[Msdt.exe](OSBinaries/Msdt.md)     
 [Mshta.exe](OSBinaries/Mshta.md)     
 [Msiexec.exe](OSBinaries/Msiexec.md)    
 [Odbcconf.exe](OSBinaries/Odbcconf.md)     

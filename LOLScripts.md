@@ -5,3 +5,4 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 # OS SCRIPTS
 
+[Cl_invocation](OSScripts/Cl_invocation.md) 

