@@ -14,7 +14,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Ie4unit.exe](OSBinaries/Ie4unit.md)     
 [Infdefaultinstall.exe](OSBinaries/Infdefaultinstall.md)    
 [Installutil.exe](OSBinaries/Installutil.md)      
-[Mavinject32.exe](OSBinaries/Mavinject32.md)       
+[Mavinject.exe](OSBinaries/Mavinject.md)       
 [Msbuild.exe](OSBinaries/Msbuild.md)    
 [Msdt.exe](OSBinaries/Msdt.md)     
 [Mshta.exe](OSBinaries/Mshta.md)     
