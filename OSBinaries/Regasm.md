@@ -3,14 +3,15 @@
 * Functions: Execute
 
 ```
-regasm.exe /U AllTheThings.dll
+regasm.exe /U AllTheThingsx64.dll
 ```
 
 Acknowledgements:
 * Casey Smith - @subtee
 
 Code sample:
-* [AllTheThingsx64.dll](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx64.dll)[1]
+* [AllTheThingsx64.dll](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx64.dll)[1]     
+* [AllTheThingsx86.dll](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx86.dll)[1]     
 
 Resources:
 * https://pentestlab.blog/2017/05/19/applocker-bypass-regasm-and-regsvcs/

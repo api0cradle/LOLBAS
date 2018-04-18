@@ -10,7 +10,7 @@ Acknowledgements:
 * ?
 
 Code sample:
-* [NameOfLink](Payload/NameOfPayload)
+*
 
 Resources:
 * https://cybersyndicates.com/2015/10/a-no-bull-guide-to-malicious-windows-trouble-shooting-packs-and-application-whitelist-bypass/    

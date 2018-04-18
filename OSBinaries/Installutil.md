@@ -11,8 +11,8 @@ Acknowledgements:
 
 
 Code sample:
-* [AllTheThingsX64.dll - Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx64.dll)
-* [AllTheThingsX32.dll - Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx32.dll)
+* [AllTheThingsX64.dll](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx64.dll)[1]
+* [AllTheThingsX32.dll](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx32.dll)[1]
 
 Resources:
 * https://pentestlab.blog/2017/05/08/applocker-bypass-installutil/       
@@ -31,7 +31,7 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe
 ```
 
 Notes:
-
+[1]Code sample linked to Red Canary - Atomic Red Team
 
 
  

