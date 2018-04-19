@@ -45,6 +45,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Scriptrunner.exe](OSBinaries/Scriptrunner.md)     
 [Syncappvpublishingserver.exe](OSBinaries/Syncappvpublishingserver.md)     
 [Wmic.exe](OSBinaries/Wmic.md)     
+[Wscript.exe](OSBinaries/Wscript.md)    
 [Xwizard.exe](OSBinaries/Xwizard.md)     
    
 
