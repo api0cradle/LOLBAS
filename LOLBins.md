@@ -15,6 +15,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Diskshadow.exe](OSBinaries/Diskshadow.md)     
 [Extrac32.exe](OSBinaries/Extrac32.md)     
 [Expand.exe](OSBinaries/Expand.md)     
+[Explorer.exe](OSBinaries/Explorer.md)          
 [Findstr.exe](OSBinaries/Findstr.md)     
 [Forfiles.exe](OSBinaries/Forfiles.md)    
 [Hh.exe](OSBinaries/Hh.md)    
