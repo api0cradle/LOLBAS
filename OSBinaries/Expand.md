@@ -15,7 +15,7 @@ Acknowledgements:
 * Oddvar Moe - @oddvarmoe
 
 Code sample:
-* [NameOfLink](Payload/NameOfPayload)
+*
 
 Resources:
 * https://twitter.com/infosecn1nja/status/986628482858807297
