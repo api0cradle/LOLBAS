@@ -1,6 +1,6 @@
 ## Rundll32.exe
 
-* Functions: Execute
+* Functions: Execute, Read ADS
 
 ```
 rundll32.exe AllTheThingsx64,EntryPoint    
@@ -31,7 +31,9 @@ rundll32.exe ieframe.dll,OpenURL "C:\test\calc.url"
 
 rundll32.exe shdocvw.dll,OpenURL "C:\test\calc.url"
 
-rundll32.exe ieadvpack.dll,LaunchINFSection test.inf,,1,
+rundll32.exe ieadvpack.dll,LaunchINFSection test.inf,,1,   
+     
+rundll32 "C:\ads\file.txt:ADSDLL.dll",DllMain   
 ```
   
 Acknowledgements:
@@ -39,6 +41,7 @@ Acknowledgements:
 * Jimmy - @bohops
 * Moriarty - @Moriarty_Meng
 * Adam - @hexacorn
+* Oddvar Moe - @oddvarmoe
 
 Code sample:
 * [AllTheThingsx64.dll](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx64.dll)[1]     
@@ -49,6 +52,7 @@ Resources:
 * https://evi1cg.me/archives/AppLocker_Bypass_Techniques.html#menu_index_7
 * https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Execution/Rundll32.md
 * https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/
+* https://oddvar.moe/2018/01/14/putting-data-in-alternate-data-streams-and-how-to-execute-it/
 
 Full path:
 ```

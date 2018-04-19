@@ -3,7 +3,8 @@
 * Functions: Execute, Read ADS
 
 ```
-forfiles /p c:\windows\system32 /m notepad.exe /c calc.exe    
+forfiles /p c:\windows\system32 /m notepad.exe /c calc.exe     
+
 forfiles /p c:\windows\system32 /m notepad.exe /c "c:\folder\normal.dll:evil.exe"    
 ```
 

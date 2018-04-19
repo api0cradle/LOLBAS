@@ -20,6 +20,7 @@ Resources:
 Full path:
 ```
 c:\windows\system32\binary.exe
+c:\windows\sysWOW64\binary.exe
 ```
 
 Notes:
