@@ -27,7 +27,11 @@ c:\windows\sysWOW64\print.exe
 ```
 
 Notes:
-
+Please note for example three: The oufolder needs to exist and the outfile.exe can't exist. Additionally webclient needs to be running
+```
+(from an administrator prompt)
+net start webclient && print /D:c:\outfolder\outfile.exe \\live.sysinternals.com\tools\adexplorer.exe && net stop webclient
+```
 
 
  
