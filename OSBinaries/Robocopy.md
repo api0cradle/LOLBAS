@@ -1,13 +1,9 @@
-Use this a Template for new binaries and scripts. 
-If you think it is hard to make a pull request using github, don't hasitate 
-to send me a tweet and I will add the contribution for you.
+## Robocopy.exe
 
-## Binary.exe
-
-* Functions: Execute, Download, Copy, Read ADS, Write ADS, UACBypass, Search
+* Functions: Copy
 
 ```
-Example
+Robocopy.exe - Needs example
 ```
 
 Acknowledgements:

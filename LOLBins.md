@@ -40,6 +40,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Regasm.exe](OSBinaries/Regasm.md)    
 [Regsvcs.exe](OSBinaries/Regsvcs.md)    
 [Regsvr32.exe](OSBinaries/Regsvr32.md)    
+[Robocopy.exe](OSBinaries/Robocopy.md)    
 [Replace.exe](OSBinaries/Replace.md)     
 [Rundll32.exe](OSBinaries/Rundll32.md)   
 [Runscripthelper.exe](OSBinaries/Runscripthelper.md)     
