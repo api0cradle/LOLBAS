@@ -13,6 +13,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Cscript.exe](OSBinaries/Cscript.md)    
 [Dfsvc.exe](OSBinaries/Dfsvc.md)     
 [Diskshadow.exe](OSBinaries/Diskshadow.md)     
+[Esentutl.exe](OSBinaries/Esentutl.md)     
 [Extrac32.exe](OSBinaries/Extrac32.md)     
 [Expand.exe](OSBinaries/Expand.md)     
 [Explorer.exe](OSBinaries/Explorer.md)          
