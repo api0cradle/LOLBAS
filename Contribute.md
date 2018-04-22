@@ -4,7 +4,7 @@ to send me a tweet and I will add the contribution for you.
 
 ## Binary.exe
 
-* Functions: Execute, Download, Copy, Read ADS, Write ADS, UACBypass, Search
+* Functions: Execute, Download, Copy, Read ADS, Write ADS, UACBypass, Search, Compile, Credentials
 
 ```
 Example
@@ -28,5 +28,9 @@ c:\windows\sysWOW64\binary.exe
 Notes:
 Some specific details about the binary file.
 
+
+Detection:
+Details about detection.
+IOC, Behaviour , User Agents etc
 
  
