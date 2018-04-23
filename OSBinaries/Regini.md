@@ -13,7 +13,8 @@ Code sample:
 * 
 
 Resources:
-* https://twitter.com/OsandaMalith/status/987823644402372608
+* https://twitter.com/OsandaMalith/status/987823644402372608    
+* https://ss64.com/nt/regini.html    
 
 Full path:
 ```

@@ -14,6 +14,7 @@ Code sample:
 
 Resources:
 * https://twitter.com/sysopfb/status/986799053668139009
+* https://ss64.com/nt/nltest.html
 
 Full path:
 ```
