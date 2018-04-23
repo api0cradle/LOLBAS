@@ -77,7 +77,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 # OTHER NON MICROSOFT BINARIES
 [Nvuhda6.exe](OtherBinaries/Nvuhda6.md)     
-    
+[Nvudisp.exe](OtherBinaries/Nvudisp.md)    
  
 
 
