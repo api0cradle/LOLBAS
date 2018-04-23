@@ -36,7 +36,7 @@ Acknowledgements:
 * Casey Smith - @subtee
 
 Code sample:
-* [Wmic_calc.xsl](Payloads/Wmic_calc.xsl)   
+* [Wmic_calc.xsl](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Wmic_calc.xsl)   
 
 Resources:
 * https://stackoverflow.com/questions/24658745/wmic-how-to-use-process-call-create-with-a-specific-working-directory

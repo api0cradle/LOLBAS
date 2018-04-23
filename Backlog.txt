@@ -15,3 +15,5 @@ odbcad32.exe	GUI DLL Loading
 WseClientSvc.exe	- https://blog.huntresslabs.com/abusing-trusted-applications-a719219220f
 dvdplay.exe		http://www.hexacorn.com/blog/2018/03/15/beyond-good-ol-run-key-part-73/
 http://www.hexacorn.com/blog/category/living-off-the-land/pass-thru-command-execution/
+
+

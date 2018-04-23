@@ -38,6 +38,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Powershell.exe](OSBinaries/Powershell.md)     
 [Presentationhost.exe](OSBinaries/Presentationhost.md)     
 [Print.exe](OSBinaries/Print.md)     
+[Qprocess.exe](OSBinaries/Qprocess.md)     
 [Reg.exe](OSBinaries/Reg.md)    
 [Regedit.exe](OSBinaries/Regedit.md)    
 [Regasm.exe](OSBinaries/Regasm.md)    
