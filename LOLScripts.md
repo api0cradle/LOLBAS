@@ -9,5 +9,5 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Manage-bde.vbs](OSScripts/Manage-bde.md)     
 [Pubprn.vbs](OSScripts/Pubprn.md)     
 [Slmgr.vbs](OSScripts/Slmgr.md)      
-[Syncappvpublishingserver.vbs](OSScripts/Syncappvpublishingserver.vbs)    
+[Syncappvpublishingserver.vbs](OSScripts/Syncappvpublishingserver.md)    
 [Winrm.vbs](OSScripts/Winrm.md)      
