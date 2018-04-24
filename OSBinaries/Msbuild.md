@@ -13,7 +13,7 @@ Acknowledgements:
 * Cn33liz - @Cneelis
   
 Code sample:
-* [Msbuild.csproj](Payload/Msbuild.csproj) 
+* [Msbuild.csproj](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payloads/Msbuild.csproj) 
 
 Resources:
 * https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Execution/Trusted_Developer_Utilities.md

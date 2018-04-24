@@ -17,7 +17,7 @@ Acknowledgements:
 * Oddvar Moe - @oddvarmoe
 
 Code sample:
-* [Mshta_calc.sct](Payload/Mshta_calc.sct)
+* [Mshta_calc.sct](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payloads/Mshta_calc.sct)
 
 Resources:
 * https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Execution/Mshta.md      

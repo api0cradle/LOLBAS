@@ -12,7 +12,7 @@ Acknowledgements:
 * Casey Smith - @subtee
    
 Code sample:
-* [Regsvr32_calc.sct](Payload/Regsvr32_calc.sct)[1]
+* [Regsvr32_calc.sct](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payloads/Regsvr32_calc.sct)[1]
 
 Resources:
 * https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Execution/Regsvr32.md

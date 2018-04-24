@@ -10,8 +10,8 @@ Acknowledgements:
 * Kyle Hanslovan - @kylehanslovan
 
 Code sample:
-* [Infdefaultinstall.inf](Payload/Infdefaultinstall.inf)
-* [Infdefaultinstall_calc.sct](Payload/Infdefaultinstall_calc.sct)
+* [Infdefaultinstall.inf](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payloads/Infdefaultinstall.inf)
+* [Infdefaultinstall_calc.sct](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payloads/Infdefaultinstall_calc.sct)
 
 Resources:
 * https://twitter.com/KyleHanslovan/status/911997635455852544     
