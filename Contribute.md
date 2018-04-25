@@ -4,7 +4,7 @@ to send me a tweet and I will add the contribution for you.
 
 ## Binary.exe
 
-* Functions: Execute, Download, Copy, Read ADS, Write ADS, UACBypass, Search, Compile, Credentials
+* Functions: Execute, Download, Copy, Read ADS, Write ADS, UACBypass, Search, Compile, Credentials, Surveillance
 
 ```
 Example
