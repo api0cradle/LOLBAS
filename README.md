@@ -1,8 +1,9 @@
 # Living Off The Land Binaries and Scripts
 
-There are two different lists.
+There are three different lists.
 
 * [LOLBins](LOLBins.md)    
+* [LOLLibs](LOLLibs.md)    
 * [LOLScripts](LOLScripts.md)    
 
 

