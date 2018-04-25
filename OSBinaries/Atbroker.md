@@ -22,7 +22,10 @@ C:\Windows\SysWOW64\Atbroker.exe
 ```
 
 Notes:
-Not certain if it works on Windows 10.
+In Windows 10 you need to add registry keys under:
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs
+
+
 
 
  
