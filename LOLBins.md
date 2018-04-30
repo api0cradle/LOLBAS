@@ -50,6 +50,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Robocopy.exe](OSBinaries/Robocopy.md)    
 [Rpcping.exe](OSBinaries/Rpcping.md)    
 [Rundll32.exe](OSBinaries/Rundll32.md)   
+[Runonce.exe](OSBinaries/Runonce.md) 
 [Runscripthelper.exe](OSBinaries/Runscripthelper.md)     
 [Sc.exe](OSBinaries/Sc.md)     
 [Scriptrunner.exe](OSBinaries/Scriptrunner.md)     
@@ -72,7 +73,8 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Sqldumper.exe](OtherMSBinaries/Sqldumper.md)     
 [Sqlps.exe](OtherMSBinaries/Sqlps.md)     
 [Te.exe](OtherMSBinaries/Te.md)     
-[Tracker.exe](OtherMSBinaries/Tracker.md)     
+[Tracker.exe](OtherMSBinaries/Tracker.md)  
+[Vsjitdebugger.exe](OtherMSBinaries/Vsjitdebugger.md)  
 [Winword.exe](OtherMSBinaries/Winword.md)    
 
 
