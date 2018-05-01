@@ -29,6 +29,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Makecab.exe](OSBinaries/Makecab.md)      
 [Mavinject.exe](OSBinaries/Mavinject.md)       
 [Msbuild.exe](OSBinaries/Msbuild.md)    
+[Msconfig.exe](OSBinaries/Msconfig.md)  
 [Msdt.exe](OSBinaries/Msdt.md)     
 [Mshta.exe](OSBinaries/Mshta.md)     
 [Msiexec.exe](OSBinaries/Msiexec.md)    
