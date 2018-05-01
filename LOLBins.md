@@ -4,7 +4,6 @@ If you are missing from the acknowledgement, please let me know (I did not forge
     
    
 # OS BINARIES
-   
 [Atbroker.exe](OSBinaries/Atbroker.md)    
 [Bash.exe](OSBinaries/Bash.md)    
 [Certutil.exe](OSBinaries/Certutil.md)    
@@ -16,6 +15,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Dfsvc.exe](OSBinaries/Dfsvc.md)     
 [Diskshadow.exe](OSBinaries/Diskshadow.md)     
 [Esentutl.exe](OSBinaries/Esentutl.md)     
+[Extexport.exe](OSBinaries/Extexport.md)     
 [Extrac32.exe](OSBinaries/Extrac32.md)     
 [Expand.exe](OSBinaries/Expand.md)     
 [Explorer.exe](OSBinaries/Explorer.md)          
@@ -64,12 +64,12 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
    
 # OTHER MICROSOFT SIGNED BINARIES
-   
 [Appvlp.exe](OtherMSBinaries/Appvlp.md)    
 [Bginfo.exe](OtherMSBinaries/Bginfo.md)    
 [Cdb.exe](OtherMSBinaries/Cdb.md)    
 [Csi.exe](OtherMSBinaries/Csi.md)    
-[Dnx.exe](OtherMSBinaries/Dnx.md)    
+[Dnx.exe](OtherMSBinaries/Dnx.md)   
+[Mftrace.exe](OtherMSBinaries/Mftrace.md)     
 [Msxsl.exe](OtherMSBinaries/Msxsl.md)    
 [Rcsi.exe](OtherMSBinaries/Rcsi.md)     
 [Sqldumper.exe](OtherMSBinaries/Sqldumper.md)     

