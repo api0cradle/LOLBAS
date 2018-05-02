@@ -37,6 +37,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Netsh.exe](OSBinaries/Netsh.md)    
 [Nltest.exe](OSBinaries/Nltest.md)    
 [Odbcconf.exe](OSBinaries/Odbcconf.md)     
+[Openwith.exe](OSBinaries/Openwith.md)     
 [Pcalua.exe](OSBinaries/Pcalua.md)    
 [Pcwrun.exe](OSBinaries/Pcwrun.md)    
 [Powershell.exe](OSBinaries/Powershell.md)     
