@@ -48,6 +48,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Reg.exe](OSBinaries/Reg.md)    
 [Regedit.exe](OSBinaries/Regedit.md)    
 [Regasm.exe](OSBinaries/Regasm.md)    
+[Register-cimprovider.exe](OSBinaries/Register-cimprovider.md)        
 [Regini.exe](OSBinaries/Regini.md)    
 [Regsvcs.exe](OSBinaries/Regsvcs.md)    
 [Regsvr32.exe](OSBinaries/Regsvr32.md)    
