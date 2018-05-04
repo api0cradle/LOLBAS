@@ -14,7 +14,6 @@ rundll32.exe IEAdvpack.dll,RegisterOCX calc.exe
 
 Acknowledgements:
 * Pierre-Alexandre Braeken - @pabraeken (RegisterOCX)
-* giMini - @pabraeken   
 * Jimmy - @bohops
 
 Code sample:
