@@ -72,6 +72,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Cdb.exe](OtherMSBinaries/Cdb.md)    
 [Csi.exe](OtherMSBinaries/Csi.md)    
 [Dnx.exe](OtherMSBinaries/Dnx.md)   
+[Dxcap.exe](OtherMSBinaries/Dxcap.md)   
 [Mftrace.exe](OtherMSBinaries/Mftrace.md)     
 [Msxsl.exe](OtherMSBinaries/Msxsl.md)    
 [Rcsi.exe](OtherMSBinaries/Rcsi.md)     
