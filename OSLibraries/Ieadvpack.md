@@ -5,11 +5,11 @@
 ```
 rundll32.exe ieadvpack.dll,LaunchINFSection test.inf,,1,   
 
-rundll32.exe IEAdvpack.dll,RegisterOCX calc.exe    
+rundll32.exe IEAdvpack.dll,RegisterOCX calc.exe   
 ```
 
 Acknowledgements:
-* giMini - @pabraeken   
+* Pierre-Alexandre Braeken - @pabraeken (RegisterOCX)
 * Jimmy - @bohops
 
 Code sample:
