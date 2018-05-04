@@ -16,7 +16,6 @@ Code sample:
 * 
 
 Resources:
-* https://linktosomethingusefull.com
 * https://twitter.com/pabraeken/status/991768766898941953
 
 Full path:
