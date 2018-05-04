@@ -3,10 +3,9 @@
 * Functions: Execute
 
 ```
-rundll32.exe shell32.dll,Control_RunDLL payload.dll
-```
-```
-rundll32.exe shell32.dll,ShellExec_RunDLL beacon.exe
+rundll32.exe shell32.dll,Control_RunDLL payload.dll    
+
+rundll32.exe shell32.dll,ShellExec_RunDLL beacon.exe    
 ```
 
 Acknowledgements:
@@ -29,6 +28,3 @@ Notes:
 
 
 Detection:
-
-
- 
