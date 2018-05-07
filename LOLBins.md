@@ -6,6 +6,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 # OS BINARIES
 [Atbroker.exe](OSBinaries/Atbroker.md)    
 [Bash.exe](OSBinaries/Bash.md)    
+[Bitsadmin.exe](OSBinaries/Bitsadmin.md)    
 [Certutil.exe](OSBinaries/Certutil.md)    
 [Cmdkey.exe](OSBinaries/Cmdkey.md)    
 [Cmstp.exe](OSBinaries/Cmstp.md)     
