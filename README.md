@@ -53,17 +53,17 @@ Common hashtags for these files are:
 A "highly scientific poll" was also conducted to agree (69% yes) on the name LOLBins.
 https://twitter.com/Oddvarmoe/status/985432848961343488 
 
-The domain http;//lolbins.com has been registered by an unknown individual and redirected it to this project. (Thank you)
+The domain http://lolbins.com has been registered by an unknown individual and redirected it to this project. (Thank you)
 
 
 ## Future work / Todo list
-* Better classification system
-	* Load DLL
-	* Arbitrary unsigned code execution
-	* Launch other process
-* Better contribution template
-* Provide the project in DB format (sqlite)
-* Re-factor project (version 2.0) and move it to a dedicated project site (https://github.com/LOLBAS-Project)
-* Map it to the Mitre Att&ck <3
-* LOLGuiBins
-* More list based on classifications
+- [ ] Better classification system
+	- [ ] Load DLL
+	- [ ] Arbitrary unsigned code execution
+	- [ ] Launch other process
+- [ ] Better contribution template
+- [ ] Provide the project in DB format (sqlite)
+- [ ] Re-factor project (version 2.0) and move it to a dedicated project site (https://github.com/LOLBAS-Project)
+- [ ] Map it to the Mitre Att&ck <3
+- [ ] LOLGuiBins
+- [ ] More list based on classifications
