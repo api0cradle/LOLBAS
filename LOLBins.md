@@ -79,11 +79,12 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Rcsi.exe](OtherMSBinaries/Rcsi.md)     
 [Sqldumper.exe](OtherMSBinaries/Sqldumper.md)     
 [Sqlps.exe](OtherMSBinaries/Sqlps.md)  
-[SQLToolsPS.exe](OtherMSBinaries/SQLToolsPS.md)   
+[Sqltoolsps.exe](OtherMSBinaries/Sqltoolsps.md)   
 [Te.exe](OtherMSBinaries/Te.md)     
 [Tracker.exe](OtherMSBinaries/Tracker.md)  
 [Vsjitdebugger.exe](OtherMSBinaries/Vsjitdebugger.md)  
 [Winword.exe](OtherMSBinaries/Winword.md)    
+
 
 
 # OTHER NON MICROSOFT BINARIES
