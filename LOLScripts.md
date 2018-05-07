@@ -7,6 +7,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 [Cl_invocation.ps1](OSScripts/Cl_invocation.md)         
 [Manage-bde.vbs](OSScripts/Manage-bde.md)     
+[pester.bat](OSScripts/pester.md)     
 [Pubprn.vbs](OSScripts/Pubprn.md)     
 [Slmgr.vbs](OSScripts/Slmgr.md)      
 [Syncappvpublishingserver.vbs](OSScripts/Syncappvpublishingserver.md)    
