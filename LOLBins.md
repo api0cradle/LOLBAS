@@ -88,5 +88,5 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Nvuhda6.exe](OtherBinaries/Nvuhda6.md)     
 [Nvudisp.exe](OtherBinaries/Nvudisp.md)    
 [VBoxDrvInst.exe](OtherBinaries/VBoxDrvInst.md)     
-
+[Usbinst.exe](OtherBinaries/Usbinst.md) 
 
