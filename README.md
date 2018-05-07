@@ -67,3 +67,4 @@ The domain http://lolbins.com has been registered by an unknown individual and r
 - [ ] Map it to the Mitre Att&ck <3
 - [ ] LOLGuiBins
 - [ ] More list based on classifications
+- [ ] LOLBAS lists for Linux? OSX?
