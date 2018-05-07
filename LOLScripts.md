@@ -4,7 +4,6 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 
 # OS SCRIPTS
-
 [Cl_invocation.ps1](OSScripts/Cl_invocation.md)         
 [Manage-bde.vbs](OSScripts/Manage-bde.md)     
 [pester.bat](OSScripts/pester.md)     
@@ -12,3 +11,12 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Slmgr.vbs](OSScripts/Slmgr.md)      
 [Syncappvpublishingserver.vbs](OSScripts/Syncappvpublishingserver.md)    
 [Winrm.vbs](OSScripts/Winrm.md)      
+
+
+
+# OTHER MICROSOFT SIGNED SCRIPTS
+
+
+
+# OTHER NON MICROSOFT BINARIES
+[Testxlst.js](OtherScripts/Testxlst.md)      
