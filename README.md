@@ -35,6 +35,10 @@ If you think it is hard to make a pull request using github, don't hasitate to s
 
 
 ## STORY
+"Living off the land" was coined by Matt Graeber - @mattifestation <3 
+One of the first "Living Off The Land" talks (That I know of) is this one:
+https://www.youtube.com/watch?v=j-r6UonEkUw   
+
 The term LOLBins came from a twitter discussion on what to call these binaries. It was first proposed by Philip Goh - @MathCasualty here:
 https://twitter.com/MathCasualty/status/969174982579273728
 
