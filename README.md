@@ -1,5 +1,7 @@
 # Living Off The Land Binaries and Scripts (and now also Libraries)
 
+![Alt text](Logo/LOLBAS.png?raw=true "LOLBAS"
+
 There are currently three different lists.
 
 * [LOLBins](LOLBins.md)    
@@ -59,6 +61,10 @@ https://twitter.com/Oddvarmoe/status/985432848961343488
 
 The domain http://lolbins.com has been registered by an unknown individual and redirected it to this project. (Thank you)
 
+The awesome logos in the logo folder was provided by Adam Nadrowski (@_sup_mane) - Thank you so much man! 
+
+Love this one:
+![Alt text](Logo/LOL1.png?raw=true "Living Off The Land"
 
 ## Future work / Todo list
 - [ ] Better classification system
