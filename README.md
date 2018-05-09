@@ -35,7 +35,7 @@ If you think it is hard to make a pull request using github, don't hasitate to s
 
 
 ## STORY
-"Living off the land" was coined by Matt Graeber - @mattifestation <3 
+"Living off the land" was coined by Matt Graeber - @mattifestation <3    
 One of the first "Living Off The Land" talks (That I know of) is this one:
 https://www.youtube.com/watch?v=j-r6UonEkUw   
 
