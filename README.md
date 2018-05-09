@@ -64,8 +64,8 @@ The domain http://lolbins.com has been registered by an unknown individual and r
 
 The awesome logos in the logo folder was provided by Adam Nadrowski (@_sup_mane) - Thank you so much man! 
 
-Love this one:
-![Alt text](Logo/LOL1.png?raw=true "Living Off The Land"
+Love this logo:
+<img src="https://github.com/api0cradle/LOLBAS/raw/master/Logo/LOL1.png" height="250">
 
 ## Future work / Todo list
 - [ ] Better classification system

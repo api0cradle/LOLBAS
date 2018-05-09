@@ -1,7 +1,7 @@
 # LOLBins - Living Off The Land Binaries
 Please contribute and do point out errors or resources I have forgotten.
 If you are missing from the acknowledgement, please let me know (I did not forget anyone on purpose).    
-    
+<img src="https://github.com/api0cradle/LOLBAS/raw/master/Logo/LOLBin.png" height="150">
    
 # OS BINARIES
 [Atbroker.exe](OSBinaries/Atbroker.md)    
