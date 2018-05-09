@@ -15,6 +15,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Cscript.exe](OSBinaries/Cscript.md)    
 [Dfsvc.exe](OSBinaries/Dfsvc.md)     
 [Diskshadow.exe](OSBinaries/Diskshadow.md)     
+[Dnscmd.exe](OSBinaries/Dnscmd.md)     
 [Esentutl.exe](OSBinaries/Esentutl.md)     
 [Extexport.exe](OSBinaries/Extexport.md)     
 [Extrac32.exe](OSBinaries/Extrac32.md)     
