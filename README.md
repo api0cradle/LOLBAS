@@ -1,6 +1,7 @@
 # Living Off The Land Binaries and Scripts (and now also Libraries)
 
-![Alt text](Logo/LOLBAS.png?raw=true "LOLBAS" =250x250)
+<img src="https://github.com/api0cradle/LOLBAS/raw/master/Logo/LOLBAS.png" height="250">
+
 
 There are currently three different lists.
 
