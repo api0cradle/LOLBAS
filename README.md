@@ -1,6 +1,6 @@
 # Living Off The Land Binaries and Scripts (and now also Libraries)
 
-![Alt text](Logo/LOLBAS.png?raw=true "LOLBAS")
+![Alt text](Logo/LOLBAS.png?raw=true "LOLBAS" =250x250)
 
 There are currently three different lists.
 
