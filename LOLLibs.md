@@ -10,6 +10,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Pcwutl.dll](OSLibraries/Pcwutl.md)    
 [Shdocvw.dll](OSLibraries/Shdocvw.md)    
 [Shell32.dll](OSLibraries/Shell32.md)    
+[Syssetup.dll](OSLibraries/Syssetup.md)    
 [Url.dll](OSLibraries/Url.md)    
 [Zipfldr.dll](OSLibraries/Zipfldr.md)    
    
