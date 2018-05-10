@@ -89,4 +89,5 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Nvudisp.exe](OtherBinaries/Nvudisp.md)    
 [VBoxDrvInst.exe](OtherBinaries/VBoxDrvInst.md)     
 [Usbinst.exe](OtherBinaries/Usbinst.md)     
-[ROCCAT_Swarm.exe](OtherBinaries/ROCCAT_Swarm.md) 
+[ROCCAT_Swarm.exe](OtherBinaries/ROCCAT_Swarm.md)     
+[Setup.exe](OtherBinaries/Setup.md) - Launches HP Installer for HP LaserJet Enterprise 700 color MFP M775 Printer Series Full Software and Drivers    
