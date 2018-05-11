@@ -9,8 +9,9 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Ieframe.dll](OSLibraries/Ieframe.md)    
 [Pcwutl.dll](OSLibraries/Pcwutl.md)    
 [Shdocvw.dll](OSLibraries/Shdocvw.md)    
+[Zipfldr.dll](OSLibraries/Zipfldr.md)    
 [Shell32.dll](OSLibraries/Shell32.md)    
-[Syssetup.dll](OSLibraries/Syssetup.md)    
+[Setupapi.dll](OSLibraries/Setupapi.md)    
 [Url.dll](OSLibraries/Url.md)    
 [Zipfldr.dll](OSLibraries/Zipfldr.md)    
    
