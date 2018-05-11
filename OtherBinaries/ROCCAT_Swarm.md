@@ -2,7 +2,9 @@
 
 * Prerequisites
 
-Replace OCCAT_Swarm_Monitor.exe with your binary.exe
+```
+Replace ROCCAT_Swarm_Monitor.exe with your binary.exe
+```
 
 * Functions: Execute
 
