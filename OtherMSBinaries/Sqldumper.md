@@ -21,11 +21,13 @@ Resources:
 
 Full path:
 ```
-C:\Program Files\Microsoft SQL Server\90\Shared\SQLDumper.exe
+C:\Program Files\Microsoft SQL Server\90\Shared\SQLDumper.exe   
+
+C:\Program Files (x86)\Microsoft Office\root\vfs\ProgramFilesX86\Microsoft Analysis Services\AS OLEDB\140\SQLDumper.exe   
 ```
 
 Notes:
-
+Part of SQL server, but also Office in some versions.
 
 
  
