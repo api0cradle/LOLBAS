@@ -5,7 +5,8 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 # OS SCRIPTS
 
-[Cl_invocation.ps1](OSScripts/Cl_invocation.md)         
+[Cl_invocation.ps1](OSScrits/Cl_invocation.md)       
+[CL_mutexverifiers.ps1](OSScripts/CL_mutexverifiers.md)       
 [Manage-bde.vbs](OSScripts/Manage-bde.md)     
 [Pubprn.vbs](OSScripts/Pubprn.md)     
 [Slmgr.vbs](OSScripts/Slmgr.md)      
