@@ -90,6 +90,8 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 
 # OTHER NON MICROSOFT BINARIES
+[Nlnotes.exe](OtherBinaries/Nlnotes.md)     
+[Notes.exe](OtherBinaries/Notes.md)     
 [Nvuhda6.exe](OtherBinaries/Nvuhda6.md)     
 [Nvudisp.exe](OtherBinaries/Nvudisp.md)    
 [VBoxDrvInst.exe](OtherBinaries/VBoxDrvInst.md)     
