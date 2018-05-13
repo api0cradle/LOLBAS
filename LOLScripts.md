@@ -4,7 +4,8 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 <img src="https://github.com/api0cradle/LOLBAS/raw/master/Logo/LOLScript.png" height="150">
 
 # OS SCRIPTS
-[Cl_invocation.ps1](OSScripts/Cl_invocation.md)         
+[Cl_invocation.ps1](OSScrits/Cl_invocation.md)       
+[CL_mutexverifiers.ps1](OSScripts/CL_mutexverifiers.md)       
 [Manage-bde.vbs](OSScripts/Manage-bde.md)     
 [pester.bat](OSScripts/pester.md)     
 [Pubprn.vbs](OSScripts/Pubprn.md)     
