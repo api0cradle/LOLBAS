@@ -77,6 +77,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Dnx.exe](OtherMSBinaries/Dnx.md)   
 [Dxcap.exe](OtherMSBinaries/Dxcap.md)   
 [Mftrace.exe](OtherMSBinaries/Mftrace.md)     
+[Msdeploy.exe](OtherMSBinaries/Msdeploy.md)     
 [Msxsl.exe](OtherMSBinaries/Msxsl.md)    
 [Rcsi.exe](OtherMSBinaries/Rcsi.md)     
 [Sqldumper.exe](OtherMSBinaries/Sqldumper.md)     
