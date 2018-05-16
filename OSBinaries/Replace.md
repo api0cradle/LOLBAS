@@ -3,9 +3,9 @@
 * Functions: Copy, Download
 
 ```
-replace c:\source\file.cab c:\destination /A     
+replace c:\source\file.cab c:\destination /A
      
-replace \\http://webdav.host.com \foo\bar.exe c:\outdir /A     
+replace \\webdav.host.com\foo\bar.exe c:\outdir /A
 
 ```
 
