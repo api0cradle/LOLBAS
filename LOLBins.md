@@ -91,6 +91,8 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 
 # OTHER NON MICROSOFT BINARIES
+[AcroRd32.exe](OtherBinaries/AcroRd32.md)    
+[Gpup.exe](OtherBinaries/Gpup.md)    
 [Nlnotes.exe](OtherBinaries/Nlnotes.md)     
 [Notes.exe](OtherBinaries/Notes.md)     
 [Nvuhda6.exe](OtherBinaries/Nvuhda6.md)     
