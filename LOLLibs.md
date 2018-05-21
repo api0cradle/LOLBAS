@@ -7,6 +7,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Advpack.dll](OSLibraries/Advpack.md)    
 [Ieadvpack.dll](OSLibraries/Ieadvpack.md)    
 [Ieframe.dll](OSLibraries/Ieframe.md)    
+[Mshtml.dll.dll](OSLibraries/Mshtml.md)    
 [Pcwutl.dll](OSLibraries/Pcwutl.md)    
 [Shdocvw.dll](OSLibraries/Shdocvw.md)    
 [Zipfldr.dll](OSLibraries/Zipfldr.md)    
