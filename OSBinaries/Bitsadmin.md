@@ -40,6 +40,7 @@ c:\windows\sysWOW64\bitsadmin.exe
 ```
 
 Notes:
+* Requires active user (doesn't work from a web shell)
 
 
 Detection:

