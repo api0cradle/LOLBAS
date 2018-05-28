@@ -3,7 +3,8 @@
 * Functions: Copy
 
 ```
-Robocopy.exe - Needs example
+Robocopy.exe C:\sourceDir d:\destDir
+Robocopy.exe C:\sourceDir d:\destDir file1 file2
 ```
 
 Acknowledgements:
@@ -17,8 +18,8 @@ Resources:
 
 Full path:
 ```
-c:\windows\system32\binary.exe
-c:\windows\sysWOW64\binary.exe
+c:\windows\system32\Robocopy.exe
+c:\windows\sysWOW64\Robocopy.exe
 ```
 
 Notes:
