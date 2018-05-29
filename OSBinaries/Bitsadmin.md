@@ -20,6 +20,10 @@ bitsadmin /create 1 & bitsadmin /addfile 1 c:\windows\system32\cmd.exe c:\data\p
 bitsadmin /create 1 & bitsadmin /addfile 1 c:\windows\system32\cmd.exe c:\data\playfolder\cmd.exe & bitsadmin /SetNotifyCmdLine 1 c:\data\playfolder\1.txt:cmd.exe NULL & bitsadmin /RESUME 1 & bitsadmin /Reset   
 ```
 
+Rewind:
+
+bitsadmin /reset
+
 Acknowledgements:
 * Rob Fuller - @mubix 
 * Chris Gates - @carnal0wnage
@@ -41,7 +45,7 @@ c:\windows\sysWOW64\bitsadmin.exe
 
 Notes:
 * Requires active user (doesn't work from a web shell)
-
+* Tested on Win10x64
 
 Detection:
 
