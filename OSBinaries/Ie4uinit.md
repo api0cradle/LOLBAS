@@ -1,9 +1,9 @@
-## Ie4unit.exe
+## Ie4uinit.exe
 
 * Functions: Execute
 
 ```
-ie4unit.exe -BaseSettings    
+ie4uinit.exe -BaseSettings    
 ```
 
 Acknowledgements:
@@ -17,13 +17,13 @@ Resources:
 
 Full path:
 ```
-c:\windows\system32\ie4unit.exe    
-c:\windows\sysWOW64\ie4unit.exe    
+c:\windows\system32\ie4uinit.exe    
+c:\windows\sysWOW64\ie4uinit.exe    
 c:\windows\system32\ieuinit.inf    
 c:\windows\sysWOW64\ieuinit.inf    
 ```
 
 Notes:
-copy out ie4unit.exe and ieuinit.inf - add SCT in the MSIE4RegisterOCX.Windows7 section
+copy out ie4uinit.exe and ieuinit.inf - add SCT in the MSIE4RegisterOCX.Windows7 section
 
  
