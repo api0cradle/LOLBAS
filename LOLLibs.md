@@ -5,6 +5,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
    
 # OS LIBRARIES
 [Advpack.dll](OSLibraries/Advpack.md)    
+[Desk.cpl.dll](OSLibraries/Desk.cpl.md)    
 [Ieadvpack.dll](OSLibraries/Ieadvpack.md)    
 [Ieframe.dll](OSLibraries/Ieframe.md)    
 [Mshtml.dll](OSLibraries/Mshtml.md)    
