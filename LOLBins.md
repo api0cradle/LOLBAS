@@ -26,7 +26,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Gpscript.exe](OSBinaries/Gpscript.md)        
 [Hh.exe](OSBinaries/Hh.md)    
 [Ieexec.exe](OSBinaries/Ieexec.md)     
-[Ie4unit.exe](OSBinaries/Ie4unit.md)     
+[Ie4uinit.exe](OSBinaries/Ie4uinit.md)     
 [Infdefaultinstall.exe](OSBinaries/Infdefaultinstall.md)    
 [Installutil.exe](OSBinaries/Installutil.md)      
 [Makecab.exe](OSBinaries/Makecab.md)      
