@@ -3,12 +3,12 @@
 <img src="https://github.com/api0cradle/LOLBAS/raw/master/Logo/LOLBAS.png" height="250">
 
 
-There are currently three different lists.
+There are currently four different lists.
 
 * [LOLBins](LOLBins.md)    
 * [LOLLibs](LOLLibs.md)    
 * [LOLScripts](LOLScripts.md)    
-
+* [LOLTools](LOLTools.md)  
 
 The goal of these lists are to document every binary, script and library that can be used for Living Off The Land techniques. 
 
@@ -55,7 +55,8 @@ Common hashtags for these files are:
 #LOLScript   
 #LOLScripts   
 #LOLLib   
-#LOLLibs   
+#LOLLibs
+#LOLTools   
 
 A "highly scientific poll" was also conducted to agree (69% yes) on the name LOLBins.
 https://twitter.com/Oddvarmoe/status/985432848961343488 
