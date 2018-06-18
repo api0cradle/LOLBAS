@@ -1,6 +1,6 @@
 Execution,Persistence,Privilege Escalation,Defense Evasion,Credential Access,Discovery,Lateral Movement,Collection,Exfiltration,Others/Uncategorised
-atbroker.exe,netsh.exe,,bitsadmin.exe,cmdkey.exe,wmic.exe,,bitsadmin.exe,,
-bash.exe,sc.exe,,certutil.exe,diskshadow.exe,,,esentutl.exe,,csc.exe
+atbroker.exe,netsh.exe,,bitsadmin.exe,cmdkey.exe,wmic.exe,,bitsadmin.exe,,csc.exe
+bash.exe,sc.exe,,certutil.exe,diskshadow.exe,,,esentutl.exe,,
 bitsadmin.exe,,,cmstp.exe,nltest.exe,,,expand.exe,,
 cmstp.exe,,,control.exe,rpcping.exe,,,extrac32.exe,,
 control.exe,,,cscript.exe,,,,findstr.exe,,
