@@ -15,7 +15,7 @@ Acknowledgements:
 * Oddvar Moe - @oddvarmoe
 
 Code sample:
-*
+* net start webclient && expand \\live.sysinternals.com\tools\adexplorer.exe  c:\temp\outfile.exe && net stop webclient
 
 Resources:
 * https://twitter.com/infosecn1nja/status/986628482858807297
