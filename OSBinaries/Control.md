@@ -31,4 +31,6 @@ reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Control Panel\Cpls"
 /v EvilCPL.cpl /t REG_SZ /d "C:\Folder\EvilCPL.cpl"
 ```
 
- 
+ MITRE ATT&CK:
+* [Control Panel Items](https://attack.mitre.org/wiki/Technique/T1196)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)

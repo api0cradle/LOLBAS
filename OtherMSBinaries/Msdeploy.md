@@ -21,3 +21,6 @@ Notes:
 Part of IIS, Microsoft Web Deploy V3
 
 
+MITRE ATT&CK:
+* [Scripting](https://attack.mitre.org/wiki/Technique/T1064)
+* [Indirect Command Execution](https://attack.mitre.org/wiki/Technique/T1202)

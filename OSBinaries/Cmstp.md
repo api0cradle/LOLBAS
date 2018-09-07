@@ -34,4 +34,6 @@ Notes:
 
 
 
- 
+ MITRE ATT&CK:
+* [CMSTP](https://attack.mitre.org/wiki/Technique/T1191)
+* [Bypass User Account Control](https://attack.mitre.org/wiki/Technique/T1088)

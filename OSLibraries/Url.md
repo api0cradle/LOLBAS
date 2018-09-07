@@ -30,3 +30,7 @@ Notes:
 
 
 Detection:
+MITRE ATT&CK:
+* [Regsvr32](https://attack.mitre.org/wiki/Technique/T1117)
+* [Rundll32](https://attack.mitre.org/wiki/Technique/T1085)
+* [Gatekeeper Bypass](https://attack.mitre.org/wiki/Technique/T1144)

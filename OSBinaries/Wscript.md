@@ -26,3 +26,6 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Scripting](https://attack.mitre.org/wiki/Technique/T1064)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)

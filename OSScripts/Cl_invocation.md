@@ -44,3 +44,5 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [.bash_profile and .bashrc](https://attack.mitre.org/wiki/Technique/T1156)

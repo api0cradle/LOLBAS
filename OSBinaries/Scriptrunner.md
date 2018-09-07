@@ -27,3 +27,6 @@ c:\windows\sysWOW64\scriptrunner.exe
 
 Notes:
  
+MITRE ATT&CK:
+* [Scripting](https://attack.mitre.org/wiki/Technique/T1064)
+* [Indirect Command Execution](https://attack.mitre.org/wiki/Technique/T1202)

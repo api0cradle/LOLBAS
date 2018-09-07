@@ -30,3 +30,5 @@ Mftrace.exe only needs Mfdetours.dll in same folder to work.
 
 
 Detection:
+MITRE ATT&CK:
+* [Indirect Command Execution](https://attack.mitre.org/wiki/Technique/T1202)

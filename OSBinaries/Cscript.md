@@ -27,3 +27,7 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Scripting](https://attack.mitre.org/wiki/Technique/T1064)
+* [Signed Script Proxy Execution](https://attack.mitre.org/wiki/Technique/T1216)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)

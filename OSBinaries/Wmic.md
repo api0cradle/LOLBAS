@@ -54,3 +54,6 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Windows Management Instrumentation](https://attack.mitre.org/wiki/Technique/T1047)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)

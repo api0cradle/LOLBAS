@@ -34,3 +34,6 @@ Notes:
 
 
 Detection:
+MITRE ATT&CK:
+* [Control Panel Items](https://attack.mitre.org/wiki/Technique/T1196)
+* [Rundll32](https://attack.mitre.org/wiki/Technique/T1085)

@@ -28,4 +28,5 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\regsvcs.exe
 ```
 
 Notes:
-[1]Code sample linked to Red Canary - Atomic Red Team
+[1]Code sample linked to Red Canary - Atomic Red TeamMITRE ATT&CK:
+* [Regsvcs/Regasm](https://attack.mitre.org/wiki/Technique/T1121)

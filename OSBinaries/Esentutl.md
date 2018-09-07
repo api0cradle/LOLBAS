@@ -36,3 +36,6 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)
+* [Remote File Copy](https://attack.mitre.org/wiki/Technique/T1105)

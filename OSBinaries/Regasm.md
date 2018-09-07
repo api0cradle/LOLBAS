@@ -32,3 +32,5 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Regsvcs/Regasm](https://attack.mitre.org/wiki/Technique/T1121)

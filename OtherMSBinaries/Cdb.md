@@ -30,3 +30,5 @@ Part of the Debugging tools for Windows
 Detection:
 ? 
  
+MITRE ATT&CK:
+* [Trusted Developer Utilities](https://attack.mitre.org/wiki/Technique/T1127)

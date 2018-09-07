@@ -36,3 +36,6 @@ Detection:
 
 
  
+MITRE ATT&CK:
+* [Security Software Discovery](https://attack.mitre.org/wiki/Technique/T1063)
+* [Netsh Helper DLL](https://attack.mitre.org/wiki/Technique/T1128)

@@ -28,3 +28,5 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Signed Script Proxy Execution](https://attack.mitre.org/wiki/Technique/T1216)

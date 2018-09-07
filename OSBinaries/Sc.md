@@ -28,3 +28,10 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Service Registry Permissions Weakness](https://attack.mitre.org/wiki/Technique/T1058)
+* [System Service Discovery](https://attack.mitre.org/wiki/Technique/T1007)
+* [Service Execution](https://attack.mitre.org/wiki/Technique/T1035)
+* [Modify Existing Service](https://attack.mitre.org/wiki/Technique/T1031)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)
+* [New Service](https://attack.mitre.org/wiki/Technique/T1050)

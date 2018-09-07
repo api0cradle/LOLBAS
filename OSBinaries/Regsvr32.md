@@ -32,4 +32,5 @@ Notes:
  
 
    
-   
+   MITRE ATT&CK:
+* [Regsvr32](https://attack.mitre.org/wiki/Technique/T1117)

@@ -51,3 +51,5 @@ HKLM,Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce,Install,,cmd.exe /c "
 Detection:
 
  
+MITRE ATT&CK:
+* [Rundll32](https://attack.mitre.org/wiki/Technique/T1085)

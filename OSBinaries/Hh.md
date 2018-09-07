@@ -32,3 +32,6 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Indirect Command Execution](https://attack.mitre.org/wiki/Technique/T1202)
+* [Remote File Copy](https://attack.mitre.org/wiki/Technique/T1105)

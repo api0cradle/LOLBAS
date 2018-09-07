@@ -26,3 +26,5 @@ Might have been fixed in newest version of Windows 10.
 (Works as of 10.0.16299.371)
 
  
+MITRE ATT&CK:
+* [Signed Binary Proxy Execution](https://attack.mitre.org/wiki/Technique/T1218)

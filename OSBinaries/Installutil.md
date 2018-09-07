@@ -36,3 +36,5 @@ Notes:
 
  
 
+MITRE ATT&CK:
+* [InstallUtil](https://attack.mitre.org/wiki/Technique/T1118)

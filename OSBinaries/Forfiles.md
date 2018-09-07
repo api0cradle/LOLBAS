@@ -30,4 +30,6 @@ Notes:
 
 
 
- 
+ MITRE ATT&CK:
+* [Indirect Command Execution](https://attack.mitre.org/wiki/Technique/T1202)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)

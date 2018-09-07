@@ -28,3 +28,5 @@ Only present on Windows Server OS 2008 and newer
 
 
  
+MITRE ATT&CK:
+* [Credential Dumping](https://attack.mitre.org/wiki/Technique/T1003)

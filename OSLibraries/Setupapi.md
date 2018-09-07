@@ -44,3 +44,5 @@ AddReg = CalcStart
 [CalcStart]
 HKLM,Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce,Install,,cmd.exe /c """calc.exe"""
 ```
+MITRE ATT&CK:
+* [Rundll32](https://attack.mitre.org/wiki/Technique/T1085)

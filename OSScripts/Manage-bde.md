@@ -27,3 +27,5 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Scripting](https://attack.mitre.org/wiki/Technique/T1064)

@@ -29,3 +29,5 @@ Some specific details about the binary file.
 
 
  
+MITRE ATT&CK:
+* [Windows Remote Management](https://attack.mitre.org/wiki/Technique/T1028)

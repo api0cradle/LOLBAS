@@ -27,3 +27,5 @@ Needs some more examples.... A looooooot can be done with Powershell. It is like
 
 
  
+MITRE ATT&CK:
+* [PowerShell](https://attack.mitre.org/wiki/Technique/T1086)

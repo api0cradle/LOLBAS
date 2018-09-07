@@ -46,3 +46,7 @@ Notes:
 Detection:
 
  
+MITRE ATT&CK:
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)
+* [BITS Jobs](https://attack.mitre.org/wiki/Technique/T1197)
+* [Remote File Copy](https://attack.mitre.org/wiki/Technique/T1105)

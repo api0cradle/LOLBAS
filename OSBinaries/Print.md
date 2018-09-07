@@ -35,3 +35,7 @@ net start webclient && print /D:c:\outfolder\outfile.exe \\live.sysinternals.com
 
 
  
+MITRE ATT&CK:
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)
+* [Port Monitors](https://attack.mitre.org/wiki/Technique/T1013)
+* [Remote File Copy](https://attack.mitre.org/wiki/Technique/T1105)

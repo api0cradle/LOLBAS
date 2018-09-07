@@ -28,3 +28,6 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [SIP and Trust Provider Hijacking](https://attack.mitre.org/wiki/Technique/T1198)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)

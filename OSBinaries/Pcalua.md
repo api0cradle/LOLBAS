@@ -30,3 +30,5 @@ Notes:
 
 
  
+MITRE ATT&CK:
+* [Indirect Command Execution](https://attack.mitre.org/wiki/Technique/T1202)

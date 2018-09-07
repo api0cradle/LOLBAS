@@ -28,4 +28,5 @@ Notes:
 
 
 Detection:
-?
+?MITRE ATT&CK:
+* [Trusted Developer Utilities](https://attack.mitre.org/wiki/Technique/T1127)

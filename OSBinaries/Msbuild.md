@@ -38,3 +38,5 @@ Example code borrowed from Red Canary - Atomic Red Team.
  
 
   
+MITRE ATT&CK:
+* [Trusted Developer Utilities](https://attack.mitre.org/wiki/Technique/T1127)

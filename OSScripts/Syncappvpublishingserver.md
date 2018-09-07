@@ -26,3 +26,5 @@ Just like [SyncAppvPublishingServer.exe](OSBinaries/Syncappvpublishingserver.md)
 
 Included with Windows 10 Enterprise. Script is catalog signed by Microsoft.
  
+MITRE ATT&CK:
+* [Signed Binary Proxy Execution](https://attack.mitre.org/wiki/Technique/T1218)

@@ -42,4 +42,8 @@ Notes:
 
  
     
-    
+    MITRE ATT&CK:
+* [Control Panel Items](https://attack.mitre.org/wiki/Technique/T1196)
+* [Bypass User Account Control](https://attack.mitre.org/wiki/Technique/T1088)
+* [Rundll32](https://attack.mitre.org/wiki/Technique/T1085)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)

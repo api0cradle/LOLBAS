@@ -31,3 +31,6 @@ Some specific details about the binary file.
 
 
  
+MITRE ATT&CK:
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)
+* [Path Interception](https://attack.mitre.org/wiki/Technique/T1034)

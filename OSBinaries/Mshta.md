@@ -35,3 +35,6 @@ C:\Windows\SysWOW64\mshta.exe
 Notes:
 SCT code borrowed from Red Canary - Atomic Red Team 
 
+MITRE ATT&CK:
+* [Mshta](https://attack.mitre.org/wiki/Technique/T1170)
+* [NTFS File Attributes](https://attack.mitre.org/wiki/Technique/T1096)
