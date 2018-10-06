@@ -1,3 +1,6 @@
+## PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATE ANYMORE BUT WILL BE KEP FOR HISTORICAL REASONS.
+New site: https://github.com/LOLBAS-Project/LOLBAS
+
 # LOLBins - Living Off The Land Binaries
 Please contribute and do point out errors or resources I have forgotten.
 If you are missing from the acknowledgement, please let me know (I did not forget anyone on purpose).    
