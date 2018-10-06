@@ -1,3 +1,6 @@
+# PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATE ANYMORE BUT WILL BE KEP FOR HISTORICAL REASONS.
+New site: https://github.com/LOLBAS-Project/LOLBAS
+
 # Living Off The Land Binaries and Scripts (and now also Libraries)
 
 <img src="https://github.com/api0cradle/LOLBAS/raw/master/Logo/LOLBAS.png" height="250">
