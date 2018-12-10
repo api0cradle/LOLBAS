@@ -1,5 +1,6 @@
-## PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATE ANYMORE BUT WILL BE KEPT FOR HISTORICAL REASONS.
+# UPDATE BOOKMARKS - PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATED ANYMORE, BUT WILL BE KEPT FOR HISTORICAL REASONS.
 New site: https://github.com/LOLBAS-Project/LOLBAS
+Web portal: https://lolbas-project.github.io/ 
 
 # LOLBins - Living Off The Land Binaries
 Please contribute and do point out errors or resources I have forgotten.
