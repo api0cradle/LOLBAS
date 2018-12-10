@@ -1,5 +1,6 @@
 # PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATE ANYMORE BUT WILL BE KEPT FOR HISTORICAL REASONS.
 New site: https://github.com/LOLBAS-Project/LOLBAS
+Web portal: https://lolbas-project.github.io/
 
 # Living Off The Land Binaries and Scripts (and now also Libraries)
 
